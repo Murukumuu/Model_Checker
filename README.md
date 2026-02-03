@@ -24,20 +24,22 @@ Automated validation checks for common asset problems:
 
 **Demos**
 
-**Naming Convention Check**  
-![Naming Check](Model_Checker/Gif/Model%20Checker%20(Naming).gif)
+<img src="./Model_Checker/Gif/Model%20Checker%20%28Naming%29.gif" width="700">
 
-**Transform Validation**  
-![Transform Check](Model_Checker/Gif/Model%20Checker%20(Transform).gif)
+<img src="./Model_Checker/Gif/Model%20Checker%20%28Transform%29.gif" width="700">
 
-**Polycount Check**  
-![Polycount Check](Model_Checker/Gif/Model%20Checker%20(Polygon).gif)
+<img src="./Model_Checker/Gif/Model%20Checker%20%28Normals%29.gif" width="700">
 
-**Normals Check**  
-![Normals Check](Model_Checker/Gif/Model%20Checker%20(Normals).gif)
+<img src="./Model_Checker/Gif/Model%20Checker%20%28Polygon%29.gif" width="700">
 
-**UV Existence Check**  
-![UV Check](Model_Checker/Gif/Model%20Checker%20(UV).gif)
+<img src="./Model_Checker/Gif/Model%20Checker%20%28UV%29.gif" width="700">
+
+<img src="./Model_Checker/Gif/Naming%20Bones.gif" width="700">
+
+<img src="./Model_Checker/Gif/Wiggle%20Bones.gif" width="700">
+
+<img src="./Model_Checker/Gif/Squid%20Overall.gif" width="700">
+
 
 ---
 
@@ -76,8 +78,6 @@ The emphasis is on **detection and feedback**, rather than automatic fixing.
 
 ## 📝 Concept Sketch
 
-**Initial Sketch**  
-![Concept Sketch](Model_Checker/Image/Sketch.jpeg)
+<img src="./Model_Checker/Image/Sketch.jpeg" width="700">
+<img src="./Model_Checker/Image/Drawing.jpeg" width="700">
 
-**Additional Drawing**  
-![Drawing](Model_Checker/Image/Drawing.jpeg)
