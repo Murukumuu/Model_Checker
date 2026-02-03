@@ -24,7 +24,7 @@ Automated validation checks for common asset problems:
 
 **Demos**
 
-<img src="./Model_Checker/Gif/Model%20Checker%20%28Naming%29.gif" width="700">
+<img src="Gif/Model  Checker (Transform).gif">
 
 <img src="./Model_Checker/Gif/Model%20Checker%20%28Transform%29.gif" width="700">
 
