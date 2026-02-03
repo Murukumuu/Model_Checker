@@ -28,16 +28,16 @@ Automated validation checks for common asset problems:
 <img src="Gif/Model  Checker (Transform).gif">
 
 **Naming** 
-<img src="Gif/Model  Checker (Naming).gif">
+<img src="Gif/Model Checker (Naming).gif">
 
 **Normals** 
-<img src="Gif/Model  Checker (Normals).gif">
+<img src="Gif/Model Checker (Normals).gif">
 
 **Polygon** 
-<img src="Gif/Model  Checker (Polygon).gif">
+<img src="Gif/Model Checker (Polygon).gif">
 
 **UV** 
-<img src="Gif/Model  Checker (UV).gif">
+<img src="Gif/Model Checker (UV).gif">
 ---
 
 ### Rig & Utility Tools
@@ -75,6 +75,6 @@ The emphasis is on **detection and feedback**, rather than automatic fixing.
 
 ## 📝 Concept Sketch
 
-<img src="./Model_Checker/Image/Sketch.jpeg" width="700">
-<img src="./Model_Checker/Image/Drawing.jpeg" width="700">
+<img src="Image/Sketch.jpeg">
+<img src="Image/Drawing.jpeg">
 
