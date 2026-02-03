@@ -16,10 +16,10 @@ The repository includes:
 ### Model Checker
 Automated validation checks for common asset problems:
 
-- Naming convention checks  
 - Transform validation (unapplied scale / rotation)  
-- Polycount reporting  
+- Naming convention checks
 - Flipped normals detection  
+- Polycount reporting  
 - UV existence check (detects missing UV maps)
 
 **Demos**
