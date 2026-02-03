@@ -24,23 +24,20 @@ Automated validation checks for common asset problems:
 
 **Demos**
 
+**Transform** 
 <img src="Gif/Model  Checker (Transform).gif">
 
-<img src="./Model_Checker/Gif/Model%20Checker%20%28Transform%29.gif" width="700">
+**Naming** 
+<img src="Gif/Model  Checker (Naming).gif">
 
-<img src="./Model_Checker/Gif/Model%20Checker%20%28Normals%29.gif" width="700">
+**Normals** 
+<img src="Gif/Model  Checker (Normals).gif">
 
-<img src="./Model_Checker/Gif/Model%20Checker%20%28Polygon%29.gif" width="700">
+**Polygon** 
+<img src="Gif/Model  Checker (Polygon).gif">
 
-<img src="./Model_Checker/Gif/Model%20Checker%20%28UV%29.gif" width="700">
-
-<img src="./Model_Checker/Gif/Naming%20Bones.gif" width="700">
-
-<img src="./Model_Checker/Gif/Wiggle%20Bones.gif" width="700">
-
-<img src="./Model_Checker/Gif/Squid%20Overall.gif" width="700">
-
-
+**UV** 
+<img src="Gif/Model  Checker (UV).gif">
 ---
 
 ### Rig & Utility Tools
@@ -48,10 +45,10 @@ Automated validation checks for common asset problems:
 Small quality-of-life tools focused on rig consistency and testing:
 
 **Automatic Bone Naming**  
-![Naming Bones](Model_Checker/Gif/Naming%20Bones.gif)
+<img src="Gif/Naming Bones.gif">
 
 **Procedural Wiggle Bones (Tail Test)**  
-![Wiggle Bones](Model_Checker/Gif/Wiggle%20Bones.gif)
+<img src="Gif/Wiggle Bones.gif">
 
 ---
 
@@ -60,7 +57,7 @@ Small quality-of-life tools focused on rig consistency and testing:
 The squid model was intentionally kept simple to reflect stylized production assets.  
 After creating a clean version, the asset was deliberately “broken” to test the validation tools.
 
-![Squid Overall](Model_Checker/Gif/Squid%20Overall.gif)
+<img src="Gif/Squid Overall.gif">
 
 ---
 
